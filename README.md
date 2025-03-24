@@ -3,7 +3,8 @@ Enes Sinan Parildi - Machine Learning & AI Engineer
 
 About Me
 
-Welcome to my GitHub! I'm a Machine Learning Engineer specializing in large-scale deep learning, NLP, and distributed training. My work focuses on optimizing LLMs, fine-tuning transformer models, and building scalable ML infrastructures. 
+Welcome to my GitHub! I'm a Machine Learning Engineer specializing in deep learning, NLP, and LLM. My primary expertise lies in building applications using LLMs such as Gemini, Llama, BERT, RoBERTa, and GPT, as well as more traditional ML algorithms for tasks such as clustering and multi-label classification. Additionally, I am passionate about Bayesian models, reinforcement learning, uncertainty quantification, kernel methods, and applying various active learning and metric learning techniques.
+
 I am currently open to work and looking for exciting opportunities in AI and machine learning.
 
 Let's Connect
